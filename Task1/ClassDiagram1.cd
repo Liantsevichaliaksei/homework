@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task1.Item">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1.Spice" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAEAAAAAAQAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Spice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1.Fish" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAABAAAAgAAAAEAAAAAAQBgCAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Fish.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task1.Meat" Collapsed="true">
+    <Position X="2" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAABAAAAAAAAAEAAAAAAQBACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Meat.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task1.Vegetable" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAABAAAAgAAAAEAAAAAAQBgAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Class\Vegetable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task1.Fruit" Collapsed="true">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAABAAAAgAAAAEAAAAAAQBgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Fruit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task1.Salad" Collapsed="true">
+    <Position X="9.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAADAQAAAABAUAABAAAgAEAAAgAABQIAA=</HashCode>
+      <FileName>Class\Salad.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Task1.IHasWeight">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IHasWeight.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task1.IHasCalories">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IHasCalories.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Task1.Measures">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAACACAAAAAAAABAAAAgAAA=</HashCode>
+      <FileName>Enum\Measures.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Task1.CuttingMethods">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Enum\CuttingMethods.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

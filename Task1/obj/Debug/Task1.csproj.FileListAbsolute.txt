@@ -1,0 +1,11 @@
+C:\Users\drall\Downloads\Task1\Task1\bin\Debug\Task1.dll
+C:\Users\drall\Downloads\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\drall\Downloads\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\drall\Downloads\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\drall\Downloads\Task1\Task1\obj\Debug\Task1.dll
+C:\Users\drall\Downloads\Task1\Task1\obj\Debug\Task1.pdb
+C:\Users\drall\Desktop\1111\Telegram Desktop1\Task1\Task1\bin\Debug\Task1.dll
+C:\Users\drall\Desktop\1111\Telegram Desktop1\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\drall\Desktop\1111\Telegram Desktop1\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\drall\Desktop\1111\Telegram Desktop1\Task1\Task1\obj\Debug\Task1.dll
+C:\Users\drall\Desktop\1111\Telegram Desktop1\Task1\Task1\obj\Debug\Task1.pdb

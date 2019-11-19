@@ -1,0 +1,9 @@
+C:\Users\drall\Desktop\1111\Telegram Desktop1\Task1\SaladBuilder\bin\Debug\SaladBuilder.exe.config
+C:\Users\drall\Desktop\1111\Telegram Desktop1\Task1\SaladBuilder\bin\Debug\SaladBuilder.exe
+C:\Users\drall\Desktop\1111\Telegram Desktop1\Task1\SaladBuilder\bin\Debug\SaladBuilder.pdb
+C:\Users\drall\Desktop\1111\Telegram Desktop1\Task1\SaladBuilder\bin\Debug\Task1.dll
+C:\Users\drall\Desktop\1111\Telegram Desktop1\Task1\SaladBuilder\bin\Debug\Task1.pdb
+C:\Users\drall\Desktop\1111\Telegram Desktop1\Task1\SaladBuilder\obj\Debug\SaladBuilder.csprojAssemblyReference.cache
+C:\Users\drall\Desktop\1111\Telegram Desktop1\Task1\SaladBuilder\obj\Debug\SaladBuilder.csproj.CopyComplete
+C:\Users\drall\Desktop\1111\Telegram Desktop1\Task1\SaladBuilder\obj\Debug\SaladBuilder.exe
+C:\Users\drall\Desktop\1111\Telegram Desktop1\Task1\SaladBuilder\obj\Debug\SaladBuilder.pdb
